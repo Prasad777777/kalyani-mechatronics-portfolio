@@ -31,7 +31,7 @@ export const projects = [
     description: 'An Arduino Nano-based automated medicine dispensing concept designed to support timely medication through reminders, alarms and alerts.',
     highlights: ['Designed to help reduce missed medication doses', 'Reported 40% increase in timely medicine intake compared with manual tracking', 'Enabled timely alerts and updates for caregivers'],
     tools: ['Arduino Nano', 'Embedded C', 'Sensors', 'Alerts'],
-    image: '/images/med-buddy-placeholder.svg',
+    image: '/images/med-buddy.jpg',
   },
   {
     number: '02',
@@ -40,7 +40,7 @@ export const projects = [
     description: 'A multi-legged walking robot concept using a Theo Jansen mechanism, with ultrasonic sensing for obstacle detection and IoT data logging.',
     highlights: ['Stable locomotion with 6+ legs', 'Reported 95% obstacle detection accuracy using an ultrasonic sensor', 'Logged real-time sensor data on ThingSpeak'],
     tools: ['Robotics', 'Ultrasonic Sensor', 'ThingSpeak', 'Mechanical Design'],
-    image: '/images/theo-robot-placeholder.svg',
+    image: '/images/theo.png',
   },
   {
     number: '03',
